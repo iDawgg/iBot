@@ -1,2 +1,2 @@
 # iBot
-iDawg's Bot
+New bot written in Python wooo
