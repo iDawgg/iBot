@@ -11,9 +11,9 @@ async def on_message(message):
         return
     if message.content.startswith("hello"):
         if str(message.author) == "iDawg#1111":
-            await message.channel.send("Hey asshole, I'm reborn in Python.")
+            await message.channel.send("YOOOOOOOOOOOO")
         else:
-            await message.channel.send("Hey asshole, I'm reborn in Python.")
+            await message.channel.send("YOOOOOOOOOOOO")
 
 
 client.run('token')
